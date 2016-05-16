@@ -1,0 +1,12 @@
+c:\users\mikae\documents\visual studio 2012\Projects\FatPercentageCalculator\FatPercentageCalculator\bin\Debug\FatPercentageCalculator.exe.config
+c:\users\mikae\documents\visual studio 2012\Projects\FatPercentageCalculator\FatPercentageCalculator\obj\Debug\FatPercentageCalculator.csprojResolveAssemblyReference.cache
+c:\users\mikae\documents\visual studio 2012\Projects\FatPercentageCalculator\FatPercentageCalculator\obj\Debug\FatPercentageCalculator.fatPercentageForm.resources
+c:\users\mikae\documents\visual studio 2012\Projects\FatPercentageCalculator\FatPercentageCalculator\obj\Debug\FatPercentageCalculator.Properties.Resources.resources
+c:\users\mikae\documents\visual studio 2012\Projects\FatPercentageCalculator\FatPercentageCalculator\obj\Debug\FatPercentageCalculator.csproj.GenerateResource.Cache
+C:\Users\mikae\Documents\Visual Studio 2012\Projects\FatPercentageCalculator\FatPercentageCalculator\bin\Debug\FatPercentageCalculator.exe
+C:\Users\mikae\Documents\Visual Studio 2012\Projects\FatPercentageCalculator\FatPercentageCalculator\bin\Debug\FatPercentageCalculator.pdb
+C:\Users\mikae\Documents\Visual Studio 2012\Projects\FatPercentageCalculator\FatPercentageCalculator\obj\Debug\FatPercentageCalculator.exe
+C:\Users\mikae\Documents\Visual Studio 2012\Projects\FatPercentageCalculator\FatPercentageCalculator\obj\Debug\FatPercentageCalculator.pdb
+C:\Users\mikae\Desktop\CentralCC\C#\FatPercentageCalculator Project\FatPercentageCalculator\FatPercentageCalculator\bin\Debug\FatPercentageCalculator.exe.config
+C:\Users\mikae\Desktop\CentralCC\C#\FatPercentageCalculator Project\FatPercentageCalculator\FatPercentageCalculator\obj\Debug\FatPercentageCalculator.exe
+C:\Users\mikae\Desktop\CentralCC\C#\FatPercentageCalculator Project\FatPercentageCalculator\FatPercentageCalculator\obj\Debug\FatPercentageCalculator.pdb
